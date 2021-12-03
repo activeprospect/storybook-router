@@ -19,8 +19,8 @@
     "vue-router"
   ],
   "peerDependencies": {
-    "@storybook/addon-actions": "^4.0.0||^5.0.0||5.2.0-beta.13",
-    "@storybook/addons": "^4.0.0||^5.0.0||5.2.0-beta.13",
+    "@storybook/addon-actions": "~6.3.0",
+    "@storybook/addons": "~6.3.0",
     "vue": "^2.0.0",
     "vue-router": "^2.7.0 || ^3.0.0"
   },
